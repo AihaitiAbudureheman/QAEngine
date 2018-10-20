@@ -1,0 +1,9 @@
+.comments-container .add-comment{
+    padding: 0 15px;
+}
+.comments-container .add-comment p a{
+    font-size: 12px;
+}
+.comments-container *{
+    font-size: 12px;
+}

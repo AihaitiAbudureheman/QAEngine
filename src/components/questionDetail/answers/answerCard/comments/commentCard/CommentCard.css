@@ -1,0 +1,20 @@
+.comment-card-container{
+    background-color: #ffffff;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+.comment-card-container .comment-owner{
+    text-align: center;
+}
+    
+.comment-card-container .comment-owner img{
+    width: 30px;
+    height: 30px;
+    background-color: #DCE775;
+    border-radius: 16px;
+    margin-bottom: 8px;
+}
+.comment-card-container .comment-desc{
+    font-size: 12px;
+    margin-bottom: 4px;
+}

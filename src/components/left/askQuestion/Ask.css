@@ -1,0 +1,22 @@
+.ask-button{
+    width: 100%;
+    margin: 16px 0px 24px 0px;;
+}
+.askBtn{
+    width: 100%;
+}
+.main-content{
+    background-color: #EEF1F7;
+}
+.main-content>form>div{
+margin-top: 20px;
+}
+.main-content>form>div>input{
+   font-size: 12px;
+   height: 40px;
+}
+.main-content>form>div>select{
+   font-size: 12px;
+   height: 40px !important;
+   background-color: #EEF1F7;
+}

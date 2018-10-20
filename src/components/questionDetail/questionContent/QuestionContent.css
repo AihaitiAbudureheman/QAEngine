@@ -1,0 +1,71 @@
+.question-detail-container .question-content .question-voter{
+    margin-top: 15px;
+    text-align: center;
+}
+.question-detail-container .question-content .question-tags-desc{
+    margin: 24px 0;
+}
+.question-detail-container .question-content .question-tags-desc button.tags-btn{
+    border-radius: 12px;
+    margin: 0 12px 12px 0;
+    background-color: transparent;
+    border: 1px solid #E0E0E0;
+    color: #BDBDBD;
+    font-size: 13px;
+}
+.question-detail-container .question-content .question-tags-desc .btn-success{
+    margin: 0 12px 12px 0;;
+    border: 1px solid #E0E0E0;
+    border-radius: 12px;
+    font-size: 13px;
+}
+
+.question-detail-container .question-content .question-tags-desc button .material-icons{
+    font-size: 12px;
+    margin-right: 4px;
+    position: relative;
+    top: 2px;
+}
+.question-detail-container .question-content .q-desc{
+    font-size: 14px;
+    text-align: justify;
+    color: #757575;
+    margin-bottom: 24px;
+}
+.question-detail-container .question-content .question-info-row{
+    margin-top: 24px;
+}
+.question-creator-info{
+    font-size: 12px;
+}
+.question-creator-info .material-icons{
+    position: relative;
+    top: 7px;
+    margin-right: 12px;
+    font-size: 28px;
+}
+.question-creator-info .question-author-title{
+    margin: 0 12px;
+}
+.question-creator-info .question-cat:hover{
+    text-decoration: none;
+}
+.question-creator-info .avatar{
+    width: 30px;
+    height: 30px;
+    background-color: #DCE775;
+    border-radius: 16px;
+    margin-right: 12px;
+}
+.question-tags button{
+    border-radius: 12px;
+    margin: 0 12px 12px 0;
+    background-color: transparent;
+    border: 1px solid #E0E0E0;
+}
+.question-detail-container .question-content .share-btn>p>span{
+    position: relative;
+    top: -8px;
+    margin-right: 4px;
+    font-size: 12px;
+}

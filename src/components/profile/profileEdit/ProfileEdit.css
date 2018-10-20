@@ -1,0 +1,27 @@
+.profile-edit-container>button>div>span{
+    text-transform: none !important;
+    color: #007bff;
+}
+.profile-edit-container{
+    position: relative;
+}
+img{
+    background-color: #C5C5C5 !important;
+    border-radius: 50px;
+}
+.btn-link{
+    font-size: 14px !important;
+    margin-top: 8px
+}
+.profile-edit-container div{
+    margin-bottom: 12px;
+}
+.dialog-content{
+    border-top: none !important;
+    border-bottom: none !important;
+}
+.form-container{
+    position: relative;
+    top: 12px;
+
+}

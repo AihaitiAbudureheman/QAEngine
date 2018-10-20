@@ -1,0 +1,21 @@
+.users-container h5{
+    color: #676d74;
+}
+.users-container .material-icons, .users-container span.country, span.points{
+    color: #999da2;
+    font-size: 14px;
+}
+.users-container .btn-success {
+    font-size: 12px;
+    padding: 2px 8px;
+    margin-right: 12px;
+}
+span.points{
+    color: #999da2;
+    font-size: 14px;
+    position: relative;
+    top: 3px;
+}
+div.single-user-container{
+    margin-bottom: 12px;
+}

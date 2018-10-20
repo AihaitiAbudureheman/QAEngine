@@ -1,0 +1,29 @@
+.left-side-nav{
+    margin: 16px 0px;
+}
+.left-side-nav div{
+    margin: 8px 0px;
+    padding: 4px 0px;
+}
+.left-side-nav div a{
+    font-size: 13px;
+    text-decoration: none;
+    color: #78829d;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: block;
+}
+.left-side-nav div a:hover{
+    background-color: rgb(240, 240, 240);
+    border-left: 4px solid rgb(243, 156, 18);
+}
+.left-side-nav div .active{
+    background-color: rgb(240, 240, 240);
+    border-left: 4px solid rgb(243, 156, 18);
+}
+.left-side-nav div a i{
+    font-size: 16px;
+    position: relative;
+    top: 3px;
+    margin: 0px 16px;
+}

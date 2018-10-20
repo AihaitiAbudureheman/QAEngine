@@ -1,0 +1,30 @@
+.question-detail-container .answer-content .answer-tags-desc{
+    margin: 24px 0;
+}
+.question-detail-container .answer-content .answer-tags-desc button.tags-btn{
+    border-radius: 12px;
+    margin: 0 12px 12px 0;
+    background-color: transparent;
+    border: 1px solid #E0E0E0;
+    color: #BDBDBD;
+    font-size: 13px;
+}
+.question-detail-container .answer-content .answer-tags-desc .btn-success{
+    margin: 0 12px 12px 0;;
+    border: 1px solid #E0E0E0;
+    border-radius: 12px;
+    font-size: 13px;
+}
+
+.question-detail-container .answer-content .answer-tags-desc button .material-icons{
+    font-size: 12px;
+    margin-right: 4px;
+    position: relative;
+    top: 2px;
+}
+.question-detail-container .answer-content .a-desc{
+    font-size: 14px;
+    text-align: justify;
+    color: #757575;
+    margin-bottom: 24px;
+}

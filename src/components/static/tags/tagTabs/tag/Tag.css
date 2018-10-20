@@ -1,0 +1,19 @@
+#controlled-tab-example div.tags-row{
+    margin-top: 12px;
+
+}
+#controlled-tab-example div.tags-row .btn-info{
+    border-radius: 12px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-size: 12px;
+}
+#controlled-tab-example div.tags-row .x-letter{
+    margin-right: 4px;
+}
+#controlled-tab-example div.tags-row .button-line span{
+    font-size: 12px;
+}
+#controlled-tab-example div.tags-row .tag-stats{
+    font-size: 12px;
+}

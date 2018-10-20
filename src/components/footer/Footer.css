@@ -1,0 +1,14 @@
+.footer-container:nth-child(1){
+    color: #6f7d95;
+    font-size: 13px;
+}
+.footer-container a{
+    font-size: 13px;
+    color: #3797DA;
+    text-decoration: none;
+}
+.footer-container a:hover{
+    font-size: 13px;
+    color: #6f7d95;
+    text-decoration: none;
+}

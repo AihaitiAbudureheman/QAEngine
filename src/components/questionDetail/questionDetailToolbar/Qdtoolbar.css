@@ -1,0 +1,18 @@
+.question-detail-container .breadcrumb{
+    background-color: transparent;
+    position:relative;
+    top: 15px;
+    font-size: 12px;
+}
+.question-detail-container .breadcrumb .material-icons{
+    font-size: 18px;
+    color: #9E9E9E;
+}
+.question-detail-container .question-detail-toolbar{
+    height: 60px;
+    border-bottom: 1px solid #DBDFEA;
+}
+.question-detail-container .question-title{
+    position: relative;
+    top: 19px;
+}

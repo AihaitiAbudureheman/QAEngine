@@ -1,0 +1,22 @@
+/* Overwrite react-bootstrap */
+.container-fluid{
+    max-width: 1920px;
+}
+@media (min-width: 768px){
+    .navbar {
+        border-radius: 0px;
+    }
+}
+.container-fluid .right{
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #EEF1F7;
+}
+.container-fluid .app-stats{
+    padding: 12px 0 12px 0;
+    margin-left: 12px;
+    border-left: 4px solid #3E98D9;
+}
+
+
+

@@ -1,0 +1,18 @@
+
+    .category-container .toolbars{
+        height: 60px;
+        border-bottom: 1px solid #DBDFEA;
+    }
+    .category-container .toolbars .toolbars-title h2{
+        position: relative;
+        top: 17px;
+    }
+    .category-container .toolbars .toolbars-search{
+        position: relative;
+        top: 13px;
+    }
+    .tabs-row{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    

@@ -1,0 +1,64 @@
+.badges-container .toolbars{
+    height: 60px;
+    border-bottom: 1px solid #DBDFEA;
+    }
+.badges-container .toolbars .toolbars-title h2{
+    position: relative;
+    top: 17px;
+}
+.badges-container .subtitles{
+    padding: 24px 0;
+}
+.badges-container .subtitles p{
+    font-size: 13px;
+}
+.badges-container h1{
+    font-size: 32px;
+    color: #4F9FDB;
+    margin-right: 8px;
+}
+.badges-container .points, .badges-container .badges{
+    padding: 0 15px;
+}
+.badges-container .badge-title .material-icons, .badges-container .points .material-icons{
+    font-size: 16px;
+    color: #4F9FDB;
+    margin-right: 8px;
+    position: relative;
+    top: 4px;
+}
+.badges-container .points p{
+    font-size: 12px;
+    margin-right: 8px;
+    margin-bottom: 0px;
+}
+.badges-container .badge-card{
+    font-size: 12px;
+    border: 1px solid #cbcdd0;
+    padding: 0 8px;
+    margin-bottom: 12px;
+}
+.badges-container .badge-card .col-md-10{
+    text-align: center;
+}
+.badges-container .badge-title{
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+div.badges-system{
+    border: 1px solid #cbcdd0;
+    margin-left: 0px;
+    padding: 12px 0 0 0;
+    margin-bottom: 12px;
+}
+.badges-container .check-list .material-icons{
+    font-size: 16px;
+    color: #a5c803;
+    margin-right: 8px;
+    position: relative;
+    top: 4px;
+}
+.badges-container .badge-title .col-md-8{
+    text-align: center;
+}
+

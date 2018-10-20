@@ -1,0 +1,20 @@
+
+.question-detail-container .answer-tabs{
+    height: 50px;
+    padding: 0 15px;
+}
+.question-detail-container .answer-tabs .answer-tab-header{
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    top: 15px;
+}
+.question-detail-container .answer-tabs .answer-tabs-tab{
+    position: relative;
+    top: 4px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.question-detail-container .answer-tabs-tab a{
+    color: #9E9E9E;
+}

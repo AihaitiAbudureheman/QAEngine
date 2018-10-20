@@ -1,0 +1,64 @@
+/*
+-----------Main colors list----------
+blue: #303649
+dark blue: #1A202E
+gray: #78829d
+light blue: #3E98D9
+*/
+.header-container .row .brand-name {
+  height: 80px;
+  background-color: #303649;
+  color: #ffffff;
+}
+.header-container .row .brand-name h2 {
+  line-height: 80px;
+}
+.header-container .row .search-field {
+  height: 80px;
+  background-color: #303649;
+}
+.header-container .row .search-field input {
+  position: relative;
+  top: 23px;
+  border: none;
+  border-radius: 17px;
+  font-size: 12px;
+}
+.header-container .row .navigation {
+  height: 80px;
+  background-color: #1a202e;
+  color: #ffffff;
+}
+.header-container .row .navigation ul {
+  position: relative;
+  top: 21px;
+}
+.header-container .row .navigation ul li a {
+  color: #78829d;
+  font-size: 14px;
+  padding: 10px 10px;
+}
+.header-container .row .navigation ul li a:hover {
+  background-color: transparent;
+  color: #3e98d9;
+}
+.header-container .row .LoginBtn {
+  height: 80px;
+  background-color: #303649;
+  cursor: pointer;
+  text-align: center;
+}
+.header-container .row .LoginBtn span {
+  color: #fff;
+}
+
+.header-container .row .LoginBtn button {
+  position: relative;
+  top: 26px;
+  text-decoration: none;
+  color: #3e98d9;
+  font-size: 12px;
+}
+.header-container .row .LoginBtn button:hover {
+  color: #4d708c;
+}

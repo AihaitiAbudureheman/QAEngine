@@ -1,0 +1,30 @@
+.home-container .toolbars{
+    height: 60px;
+    border-bottom: 1px solid #DBDFEA;
+}
+.home-container .toolbars .toolbars-title h2{
+    position: relative;
+    top: 17px;
+}
+.home-container .toolbars .toolbars-search{
+    position: relative;
+    top: 16px;
+    text-align: right;
+}
+.home-container .toolbars .tabs-search{
+    position: relative;
+    top: 16px;
+    text-align: right;
+}
+.home-container .toolbars .toolbars-search label {
+    margin-right: 12px;
+}
+.home-container .col-md-12{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.home-container .toolbars-search label, .home-container .toolbars-search a{
+    color: #6f7d95;
+    font-weight: lighter;
+    font-size: 12px;
+}

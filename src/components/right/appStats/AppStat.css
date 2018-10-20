@@ -1,0 +1,12 @@
+.appStat-container .question-stats{
+    padding: 0px 0 0px 0px;
+    border-left: 4px solid #4F9FDB;
+    margin-left: 12px;
+    margin-bottom: 24px;
+}
+ .appStat-container .member-stats{
+     padding: 0;
+    border-left: 4px solid #F19B25;
+    margin-left: 12px;
+    margin-bottom: 48px;
+ }

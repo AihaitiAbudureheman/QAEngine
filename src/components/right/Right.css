@@ -1,0 +1,52 @@
+.right-container{
+    margin-top: 48px;
+}
+
+ .right-container .list-group-item{
+     background-color: transparent;
+     border: none;
+ }
+
+ .list-group-item span{
+     font-size: 12px;
+     color: #707D94;
+ }
+ h4{
+     margin-left: 12px;
+ }
+ .tags-stats, .hot-questions, .points-stats, .top-questions-stats, .top-answers-stats{
+     margin-bottom: 24px;
+ }
+ .hot-questions li{
+     font-size: 12px;
+ }
+ .hot-questions>ul>li>img{
+    background-color: #C5C5C5 !important;
+    border-radius: 24px;
+    width: 18px;
+    height: 18px;
+    margin-right: 12px;
+ }
+ .points-stats .rank, .top-questions-stats .rank, .top-answers-stats .rank, .top-users-stats .rank{
+    padding: 1px 5px;
+    background-color: #3797DA;
+    border-radius: 15px;
+    margin-right: 4px;
+    color: #fff;
+ }
+
+.points-stats i, .top-questions-stats i, .top-answers-stats i, .top-users-stats i{
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top: 2px;
+    margin-right: 4px;
+    color: #707D94;
+    
+}
+.points-stats .points, .top-questions-stats .points, .top-answers-stats .points, .top-users-stats .points{
+    position: relative;
+    top: -1px;
+}
+ 

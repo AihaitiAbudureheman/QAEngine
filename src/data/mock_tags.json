@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "tag_name": "Services",
+        "total_usage": 9,
+        "today_usage": 97,
+        "this_week_usage": 9,
+        "this_month_usage": 1402
+    },
+    {
+        "id": 2,
+        "tag_name": "Sales",
+        "total_usage": 3,
+        "today_usage": 52,
+        "this_week_usage": 658,
+        "this_month_usage": 1183
+    },
+    {
+        "id": 3,
+        "tag_name": "Engineering",
+        "total_usage": 7,
+        "today_usage": 91,
+        "this_week_usage": 964,
+        "this_month_usage": 794
+    },
+    {
+        "id": 4,
+        "tag_name": "Human Resources",
+        "total_usage": 7,
+        "today_usage": 70,
+        "this_week_usage": 942,
+        "this_month_usage": 1575
+    },
+    {
+        "id": 5,
+        "tag_name": "Engineering",
+        "total_usage": 8,
+        "today_usage": 97,
+        "this_week_usage": 220,
+        "this_month_usage": 446
+    },
+    {
+        "id": 6,
+        "tag_name": "Support",
+        "total_usage": 6,
+        "today_usage": 89,
+        "this_week_usage": 820,
+        "this_month_usage": 1511
+    },
+    {
+        "id": 7,
+        "tag_name": "Services",
+        "total_usage": 4,
+        "today_usage": 78,
+        "this_week_usage": 414,
+        "this_month_usage": 516
+    },
+    {
+        "id": 8,
+        "tag_name": "Accounting",
+        "total_usage": 7,
+        "today_usage": 29,
+        "this_week_usage": 649,
+        "this_month_usage": 1629
+    },
+    {
+        "id": 9,
+        "tag_name": "Sales",
+        "total_usage": 1,
+        "today_usage": 3,
+        "this_week_usage": 149,
+        "this_month_usage": 2335
+    },
+    {
+        "id": 10,
+        "tag_name": "Research and Development",
+        "total_usage": 4,
+        "today_usage": 32,
+        "this_week_usage": 809,
+        "this_month_usage": 1653
+    },
+    {
+        "id": 11,
+        "tag_name": "Human Resources",
+        "total_usage": 9,
+        "today_usage": 16,
+        "this_week_usage": 990,
+        "this_month_usage": 528
+    },
+    {
+        "id": 12,
+        "tag_name": "Engineering",
+        "total_usage": 7,
+        "today_usage": 40,
+        "this_week_usage": 267,
+        "this_month_usage": 2004
+    },
+    {
+        "id": 13,
+        "tag_name": "Engineering",
+        "total_usage": 1,
+        "today_usage": 11,
+        "this_week_usage": 270,
+        "this_month_usage": 1326
+    },
+    {
+        "id": 14,
+        "tag_name": "Legal",
+        "total_usage": 10,
+        "today_usage": 89,
+        "this_week_usage": 623,
+        "this_month_usage": 2494
+    },
+    {
+        "id": 15,
+        "tag_name": "Sales",
+        "total_usage": 7,
+        "today_usage": 29,
+        "this_week_usage": 89,
+        "this_month_usage": 279
+    },
+    {
+        "id": 16,
+        "tag_name": "Business Development",
+        "total_usage": 4,
+        "today_usage": 74,
+        "this_week_usage": 357,
+        "this_month_usage": 993
+    },
+    {
+        "id": 17,
+        "tag_name": "Product Management",
+        "total_usage": 2,
+        "today_usage": 10,
+        "this_week_usage": 565,
+        "this_month_usage": 1605
+    },
+    {
+        "id": 18,
+        "tag_name": "Support",
+        "total_usage": 4,
+        "today_usage": 92,
+        "this_week_usage": 385,
+        "this_month_usage": 302
+    },
+    {
+        "id": 19,
+        "tag_name": "Human Resources",
+        "total_usage": 3,
+        "today_usage": 42,
+        "this_week_usage": 101,
+        "this_month_usage": 2315
+    },
+    {
+        "id": 20,
+        "tag_name": "Sales",
+        "total_usage": 5,
+        "today_usage": 4,
+        "this_week_usage": 986,
+        "this_month_usage": 95
+    },
+    {
+        "id": 21,
+        "tag_name": "Product Management",
+        "total_usage": 7,
+        "today_usage": 28,
+        "this_week_usage": 676,
+        "this_month_usage": 1063
+    },
+    {
+        "id": 22,
+        "tag_name": "Accounting",
+        "total_usage": 6,
+        "today_usage": 7,
+        "this_week_usage": 61,
+        "this_month_usage": 1944
+    },
+    {
+        "id": 23,
+        "tag_name": "Services",
+        "total_usage": 9,
+        "today_usage": 31,
+        "this_week_usage": 199,
+        "this_month_usage": 940
+    },
+    {
+        "id": 24,
+        "tag_name": "Sales",
+        "total_usage": 0,
+        "today_usage": 40,
+        "this_week_usage": 230,
+        "this_month_usage": 438
+    },
+    {
+        "id": 25,
+        "tag_name": "Support",
+        "total_usage": 6,
+        "today_usage": 30,
+        "this_week_usage": 785,
+        "this_month_usage": 2255
+    },
+    {
+        "id": 26,
+        "tag_name": "Marketing",
+        "total_usage": 9,
+        "today_usage": 20,
+        "this_week_usage": 283,
+        "this_month_usage": 1234
+    },
+    {
+        "id": 27,
+        "tag_name": "Legal",
+        "total_usage": 8,
+        "today_usage": 64,
+        "this_week_usage": 119,
+        "this_month_usage": 1862
+    },
+    {
+        "id": 28,
+        "tag_name": "Sales",
+        "total_usage": 8,
+        "today_usage": 59,
+        "this_week_usage": 812,
+        "this_month_usage": 761
+    },
+    {
+        "id": 29,
+        "tag_name": "Support",
+        "total_usage": 3,
+        "today_usage": 41,
+        "this_week_usage": 459,
+        "this_month_usage": 702
+    },
+    {
+        "id": 30,
+        "tag_name": "Training",
+        "total_usage": 2,
+        "today_usage": 63,
+        "this_week_usage": 473,
+        "this_month_usage": 2363
+    },
+    {
+        "id": 31,
+        "tag_name": "Product Management",
+        "total_usage": 5,
+        "today_usage": 83,
+        "this_week_usage": 922,
+        "this_month_usage": 884
+    },
+    {
+        "id": 32,
+        "tag_name": "Support",
+        "total_usage": 2,
+        "today_usage": 82,
+        "this_week_usage": 233,
+        "this_month_usage": 365
+    },
+    {
+        "id": 33,
+        "tag_name": "Legal",
+        "total_usage": 8,
+        "today_usage": 91,
+        "this_week_usage": 221,
+        "this_month_usage": 1229
+    },
+    {
+        "id": 34,
+        "tag_name": "Support",
+        "total_usage": 1,
+        "today_usage": 23,
+        "this_week_usage": 977,
+        "this_month_usage": 1940
+    },
+    {
+        "id": 35,
+        "tag_name": "Training",
+        "total_usage": 5,
+        "today_usage": 6,
+        "this_week_usage": 214,
+        "this_month_usage": 1670
+    },
+    {
+        "id": 36,
+        "tag_name": "Training",
+        "total_usage": 0,
+        "today_usage": 79,
+        "this_week_usage": 771,
+        "this_month_usage": 1387
+    },
+    {
+        "id": 37,
+        "tag_name": "Engineering",
+        "total_usage": 6,
+        "today_usage": 7,
+        "this_week_usage": 675,
+        "this_month_usage": 2424
+    },
+    {
+        "id": 38,
+        "tag_name": "Services",
+        "total_usage": 8,
+        "today_usage": 97,
+        "this_week_usage": 948,
+        "this_month_usage": 1530
+    },
+    {
+        "id": 39,
+        "tag_name": "Support",
+        "total_usage": 4,
+        "today_usage": 54,
+        "this_week_usage": 516,
+        "this_month_usage": 2489
+    },
+    {
+        "id": 40,
+        "tag_name": "Engineering",
+        "total_usage": 2,
+        "today_usage": 25,
+        "this_week_usage": 899,
+        "this_month_usage": 1654
+    },
+    {
+        "id": 41,
+        "tag_name": "Research and Development",
+        "total_usage": 3,
+        "today_usage": 36,
+        "this_week_usage": 532,
+        "this_month_usage": 1493
+    },
+    {
+        "id": 42,
+        "tag_name": "Product Management",
+        "total_usage": 5,
+        "today_usage": 5,
+        "this_week_usage": 579,
+        "this_month_usage": 2158
+    },
+    {
+        "id": 43,
+        "tag_name": "Engineering",
+        "total_usage": 2,
+        "today_usage": 52,
+        "this_week_usage": 342,
+        "this_month_usage": 1978
+    },
+    {
+        "id": 44,
+        "tag_name": "Marketing",
+        "total_usage": 5,
+        "today_usage": 13,
+        "this_week_usage": 951,
+        "this_month_usage": 1077
+    },
+    {
+        "id": 45,
+        "tag_name": "Research and Development",
+        "total_usage": 6,
+        "today_usage": 62,
+        "this_week_usage": 76,
+        "this_month_usage": 732
+    },
+    {
+        "id": 46,
+        "tag_name": "Research and Development",
+        "total_usage": 5,
+        "today_usage": 98,
+        "this_week_usage": 927,
+        "this_month_usage": 1010
+    },
+    {
+        "id": 47,
+        "tag_name": "Product Management",
+        "total_usage": 10,
+        "today_usage": 4,
+        "this_week_usage": 797,
+        "this_month_usage": 1234
+    },
+    {
+        "id": 48,
+        "tag_name": "Product Management",
+        "total_usage": 5,
+        "today_usage": 49,
+        "this_week_usage": 122,
+        "this_month_usage": 1293
+    },
+    {
+        "id": 49,
+        "tag_name": "Legal",
+        "total_usage": 1,
+        "today_usage": 97,
+        "this_week_usage": 170,
+        "this_month_usage": 557
+    },
+    {
+        "id": 50,
+        "tag_name": "Product Management",
+        "total_usage": 0,
+        "today_usage": 4,
+        "this_week_usage": 3,
+        "this_month_usage": 1203
+    },
+    {
+        "id": 51,
+        "tag_name": "Artificial intellegence",
+        "total_usage": 0,
+        "today_usage": 4,
+        "this_week_usage": 33,
+        "this_month_usage": 120
+    }
+]

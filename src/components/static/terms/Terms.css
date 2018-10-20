@@ -1,0 +1,17 @@
+.terms-container .toolbars{
+    height: 60px;
+    border-bottom: 1px solid #DBDFEA;
+    }
+.terms-container .toolbars .toolbars-title h2{
+    position: relative;
+    top: 13px;
+    color: #4F9FDB;
+    font-size: 28px;
+}
+.terms-container .content div{
+    text-align: center;
+}
+.terms-container .content .description{
+    text-align: justify;
+    font-size: 12px;
+}

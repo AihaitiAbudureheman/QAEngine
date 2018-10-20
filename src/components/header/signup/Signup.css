@@ -1,0 +1,30 @@
+.join-container .material-icons {
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
+.join-container {
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
+.join-container span {
+  font-size: 14px !important;
+  margin-left: 6px;
+}
+
+.action-buttons > p > span {
+  font-size: 14px;
+  padding: 8px 48px;
+}
+.action-buttons > p > span.btn-link {
+  color: #999da2;
+}
+.sign-up-info > p > span.btn-link,
+.sign-up-info > p > span {
+  font-size: 14px;
+}
+.sign-up-link {
+  color: #0065d4;
+  cursor: pointer;
+}

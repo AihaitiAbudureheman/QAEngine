@@ -1,0 +1,16 @@
+.tags-container .toolbars{
+    height: 60px;
+    border-bottom: 1px solid #DBDFEA;
+}
+.tags-container .toolbars .toolbars-title h2{
+    position: relative;
+    top: 17px;
+}
+.tags-container .toolbars .toolbars-search{
+    position: relative;
+    top: 13px;
+}
+.tags-container .col-md-12{
+    padding-right: 0px;
+    padding-left: 0px;
+}

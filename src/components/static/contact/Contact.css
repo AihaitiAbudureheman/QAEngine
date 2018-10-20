@@ -1,0 +1,17 @@
+.contact-container .toolbars{
+    height: 60px;
+    border-bottom: 1px solid #DBDFEA;
+    }
+.contact-container .toolbars .toolbars-title h2{
+    position: relative;
+    top: 13px;
+    color: #4F9FDB;
+    font-size: 28px;
+}
+.contact-container .content div{
+    text-align: center;
+}
+.contact-container .content .description{
+    text-align: justify;
+    font-size: 12px;
+}
